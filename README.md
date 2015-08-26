@@ -9,6 +9,7 @@ Backend sample project.
 
 ### Libraries
 ---
-   * [ExpressJs](http://expressjs.com/)      s
+   * [ExpressJs](http://expressjs.com/)
+   * [MongoDB](https://www.mongodb.org/)
 
 Taught by [Juan Pablo Buritica](https://github.com/buritica)
